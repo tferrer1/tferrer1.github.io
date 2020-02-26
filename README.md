@@ -1,4 +1,3 @@
-# Tomas Ferrer
-Contact me at ferrer.t (@) outlook (dot) com
-## Artificial Intelligence Engineer / Data Scientist
+<h1> Tomas Ferrer </h1>
+<h2> Industrial Engineer, Data Scientist, Tech entrepreneur </h2> 
 Interested in building smart things. Commited to making a difference while I'm around.
