@@ -1,4 +1,4 @@
-<h1> Tomas Ferrer </h1>
+<h1> tferrer </h1>
 
 <h2> Industrial Engineer, Data Scientist, Tech entrepreneur </h2> 
 
