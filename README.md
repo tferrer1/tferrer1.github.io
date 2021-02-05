@@ -2,4 +2,4 @@
 
 <h2> Industrial Engineer, Data Scientist, Tech entrepreneur </h2> 
 
-Interested in building smart things. Committed to making a difference.
+Interested in truth, freedom and building smart things
